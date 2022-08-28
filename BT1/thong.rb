@@ -1,5 +1,5 @@
 p "Xin chào Bùi Chí Thông - 1911505310263"
-puts "Nhập số bất kỳ"
+puts "Nhập số bất kỳ:"
 number = gets
 puts "Số vừa nhập là: #{number}"
 puts "So sánh 2 số"
